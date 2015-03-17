@@ -1,6 +1,9 @@
 [
   {
-    "hdu": "hnust_Sybil", 
+    "hdu": [
+      "hnust_Sybil", 
+      "Sybil"
+    ], 
     "name": "孙霄雲", 
     "other": "hnust_sunxiaoyun", 
     "hn": "1205020128", 
@@ -9,6 +12,10 @@
         {
           "score": 8, 
           "name": "hnust_Sybil"
+        }, 
+        {
+          "score": 149, 
+          "name": "Sybil"
         }
       ], 
       "bestcoder": [], 
@@ -103,7 +110,7 @@
       "acdream": [], 
       "codechef": [
         {
-          "score": 10979, 
+          "score": 128, 
           "name": "hnustwzh"
         }
       ]
@@ -212,7 +219,7 @@
       ], 
       "codechef": [
         {
-          "score": 2162, 
+          "score": 8495, 
           "name": "hnust_fengyu"
         }
       ]
@@ -277,7 +284,12 @@
           "name": "hnust_fanjinyu"
         }
       ], 
-      "codechef": []
+      "codechef": [
+        {
+          "score": 5120, 
+          "name": "hnust_fanjinyu"
+        }
+      ]
     }, 
     "id": "1205020210"
   }, 
@@ -362,7 +374,7 @@
       "acdream": [], 
       "codechef": [
         {
-          "score": 10578, 
+          "score": 161, 
           "name": "zcy1zhy3"
         }
       ]
@@ -1029,9 +1041,15 @@
           "name": "hnust_chendiqi"
         }
       ], 
-      "codechef": []
+      "codechef": [
+        {
+          "score": 503, 
+          "name": "dkdchan"
+        }
+      ]
     }, 
-    "id": "1305030202"
+    "id": "1305030202", 
+    "codechef": "dkdchan"
   }, 
   {
     "name": "陶仕谦", 
@@ -1111,12 +1129,7 @@
           "name": "hnust_caohuilin"
         }
       ], 
-      "hn": [
-        {
-          "score": 79, 
-          "name": "caohuilin"
-        }
-      ], 
+      "hn": [], 
       "acdream": [
         {
           "score": 46, 

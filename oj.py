@@ -31,7 +31,7 @@ def acdream(name):
     return ac
 
 def cf(name):
-    r = Selector(text=requests.get('http://codeforces.com/profile/'+name,timeout=6).text)
+    r = Selector(text=requests.get('http://codeforces.com/profile/'+name,timeout=10).text)
     ac = r.xpath('//*[@id="content"]/div[2]/div[5]/div[2]/ul/li[1]/span[1]/text()').extract()[0]
     return ac
 
@@ -43,9 +43,9 @@ def bestcoder(name):
 
 
 def codechef(name):
-    r = Selector(text=requests.get('http://www.codechef.com/users/'+name,timeout=6).text)
-    ac = r.xpath('//*[@id="hp-sidebar-blurbRating"]/div/table/tr[2]/td[3]/text()').extract()[0]
-    return ac
+    r = Selector(text=requests.get('http://www.codechef.com/users/'+name,timeout=10).text)
+    r = r.xpath('//*[@id="hp-sidebar-blurbRating"]/div/table/tr[2]/td[2]//*/text()').extract()
+    return r[0]
 
 oj={'hdu':hdu,'hn':hn,'bnuoj':bnuoj,'poj':poj,'acdream':acdream,'cf':cf,'bestcoder':bestcoder,'codechef':codechef}
 

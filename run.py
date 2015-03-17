@@ -19,7 +19,7 @@ def getuser(user):
     for k,v in score.items():
         func = oj.oj[k]
         def clu(name):
-            print name
+            print k+"#"+name
             try:
                 return int(float(func(name)))
             except Exception as e:

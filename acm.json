@@ -10,7 +10,7 @@
     {
         "name": "吴展辉",
         "id": "1205020201",
-        "hn": ["1205020201","wks6125980"],
+        "hn": "1205020201",
         "hdu": "hnust_wzh",
         "acdream":"fswuwei",
         "cf": [
@@ -25,6 +25,7 @@
     {
         "name": "王克纯",
         "id": "1205020105",
+        "hn":["hnust_wangkechun","wks6125980"],
         "hdu":["hnust_wangkechun","wangkechun"],
         "acdream":"hnust_wangkechu",
         "other": "hnust_wangkechun"
@@ -103,6 +104,7 @@
         "id": "1305030210",
         "hn": "sunzongzhenghkd",
         "acdream":"hnust_sunzz",
+        "bestcoder":"hnust_sunzongzheng",
         "hdu": [
             "sunzongzhenghd",
             "hnust_sunzongzheng"
@@ -188,6 +190,7 @@
         "hdu": "a524912269",
         "poj": "DKDChan",
         "hn": "DKDChan",
+        "codechef":"dkdchan",
         "bestcoder": "S_Injuly",
         "other": "hnust_chendiqi"
     },
