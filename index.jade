@@ -9,33 +9,53 @@ html(lang='zh-cn',ng-app="myapp")
     link(rel='shortcut icon', href='/favicon.ico')
     link(rel='stylesheet', type='text/css', href='bower_components/bootstrap/dist/css/bootstrap.min.css')
     // link(rel='stylesheet', type='text/css', href='main.css')
+    style.
+      body{
+        margin-top:50px;
+      }
   body.container(ng-controller='bodyCtrl')
-    table.table.table-bordered.table-striped.table-hover
-      tr.info
-        th id
-        th name
-        th hdu
-        th hn
-        th bnuoj
-        th poj
-        th acdream
-        th cf
-        th bestcoder
-        th codechef
-      tr(ng-repeat="user in data")
-        td {{user.id}}
-        td {{user.name}}
-        td {{user.score.hdu|score}}
-        td {{user.score.hn|score}}
-        td {{user.score.bnuoj|score}}
-        td {{user.score.poj|score}}
-        td {{user.score.acdream|score}}
-        td {{user.score.cf|score}}
-        td {{user.score.bestcoder|score}}
-        td {{user.score.codechef|score}}
+    .row
+      .col-md-8.col-sm-12
+        table.table.table-bordered.table-striped.table-hover
+          tr
+            th 学号
+            th 姓名
+            th hdu
+            th hn
+            th bnuoj
+            th poj
+            th acdream
+            th cf
+            th bestcoder
+            th codechef
+          tr(ng-repeat="user in data",ng-click="clickuser($index)")
+            td {{user.id}}
+            td {{user.name}}
+            td {{user.score.hdu|score}}
+            td {{user.score.hn|score}}
+            td {{user.score.bnuoj|score}}
+            td {{user.score.poj|score}}
+            td {{user.score.acdream|score}}
+            td {{user.score.cf|score}}
+            td {{user.score.bestcoder|score}}
+            td {{user.score.codechef|score}}
+      .col-md-4.col-sm-12
+        table.table.table-bordered.table-striped.table-hover
+          tr
+            td 学号
+            td {{usernow.id}}
+          tr
+            td 姓名
+            td {{usernow.name}}
+          tr(ng-repeat="oj in usernow.ojlist")
+            td {{oj[0]}}
+            td
+              a(ng-href="{{ojurl(oj[0],oj[1])}}",target="_blank") {{oj[1]}}
+            td {{oj[2]}}
+        //- pre {{usernow|json}}
+        
 
     script(src='bower_components/underscore/underscore-min.js')
     script(src='bower_components/angularjs/angular.min.js')
     script(src='bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js')
     script(src='main.js')
-

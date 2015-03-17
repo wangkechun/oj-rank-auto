@@ -9,34 +9,61 @@
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
     <!-- link(rel='stylesheet', type='text/css', href='main.css')-->
+    <style>
+      body{
+        margin-top:50px;
+      }
+    </style>
   </head>
   <body ng-controller="bodyCtrl" class="container">
-    <table class="table table-bordered table-striped table-hover">
-      <tr class="info">
-        <th>id</th>
-        <th>name</th>
-        <th>hdu</th>
-        <th>hn</th>
-        <th>bnuoj</th>
-        <th>poj</th>
-        <th>acdream</th>
-        <th>cf</th>
-        <th>bestcoder</th>
-        <th>codechef</th>
-      </tr>
-      <tr ng-repeat="user in data">
-        <td>{{user.id}}</td>
-        <td>{{user.name}}</td>
-        <td>{{user.score.hdu|score}}</td>
-        <td>{{user.score.hn|score}}</td>
-        <td>{{user.score.bnuoj|score}}</td>
-        <td>{{user.score.poj|score}}</td>
-        <td>{{user.score.acdream|score}}</td>
-        <td>{{user.score.cf|score}}</td>
-        <td>{{user.score.bestcoder|score}}</td>
-        <td>{{user.score.codechef|score}}</td>
-      </tr>
-    </table>
+    <div class="row">
+      <div class="col-md-8 col-sm-12">
+        <table class="table table-bordered table-striped table-hover">
+          <tr>
+            <th>学号</th>
+            <th>姓名</th>
+            <th>hdu</th>
+            <th>hn</th>
+            <th>bnuoj</th>
+            <th>poj</th>
+            <th>acdream</th>
+            <th>cf</th>
+            <th>bestcoder</th>
+            <th>codechef</th>
+          </tr>
+          <tr ng-repeat="user in data" ng-click="clickuser($index)">
+            <td>{{user.id}}</td>
+            <td>{{user.name}}</td>
+            <td>{{user.score.hdu|score}}</td>
+            <td>{{user.score.hn|score}}</td>
+            <td>{{user.score.bnuoj|score}}</td>
+            <td>{{user.score.poj|score}}</td>
+            <td>{{user.score.acdream|score}}</td>
+            <td>{{user.score.cf|score}}</td>
+            <td>{{user.score.bestcoder|score}}</td>
+            <td>{{user.score.codechef|score}}</td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-md-4 col-sm-12">
+        <table class="table table-bordered table-striped table-hover">
+          <tr>
+            <td>学号</td>
+            <td>{{usernow.id}}</td>
+          </tr>
+          <tr>
+            <td>姓名</td>
+            <td>{{usernow.name}}</td>
+          </tr>
+          <tr ng-repeat="oj in usernow.ojlist">
+            <td>{{oj[0]}}</td>
+            <td><a ng-href="{{ojurl(oj[0],oj[1])}}" target="_blank">{{oj[1]}}</a></td>
+            <td>{{oj[2]}}</td>
+          </tr>
+        </table>
+        
+      </div>
+    </div>
     <script src="bower_components/underscore/underscore-min.js"></script>
     <script src="bower_components/angularjs/angular.min.js"></script>
     <script src="bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>

@@ -2,7 +2,8 @@
   {
     "hdu": "hnust_Sybil", 
     "name": "孙霄雲", 
-    "id": "1205020128", 
+    "other": "hnust_sunxiaoyun", 
+    "hn": "1205020128", 
     "score": {
       "hdu": [
         {
@@ -30,11 +31,16 @@
           "name": "1205020128"
         }
       ], 
-      "acdream": [], 
+      "acdream": [
+        {
+          "score": 16, 
+          "name": "Cloudy"
+        }
+      ], 
       "codechef": []
     }, 
-    "hn": "1205020128", 
-    "other": "hnust_sunxiaoyun"
+    "id": "1205020128", 
+    "acdream": "Cloudy"
   }, 
   {
     "hdu": "hnust_wzh", 
@@ -95,7 +101,12 @@
         }
       ], 
       "acdream": [], 
-      "codechef": []
+      "codechef": [
+        {
+          "score": 10979, 
+          "name": "hnustwzh"
+        }
+      ]
     }, 
     "id": "1205020201", 
     "acdream": "fswuweis", 
@@ -266,12 +277,7 @@
           "name": "hnust_fanjinyu"
         }
       ], 
-      "codechef": [
-        {
-          "score": 3390, 
-          "name": "hnust_fanjinyu"
-        }
-      ]
+      "codechef": []
     }, 
     "id": "1205020210"
   }, 
@@ -365,92 +371,6 @@
     "codechef": "zcy1zhy3"
   }, 
   {
-    "hdu": [
-      "sunzongzhenghd", 
-      "hnust_sunzongzheng"
-    ], 
-    "name": "孙宗正", 
-    "id": "1305030210", 
-    "score": {
-      "hdu": [
-        {
-          "score": 28, 
-          "name": "sunzongzhenghd"
-        }, 
-        {
-          "score": 9, 
-          "name": "hnust_sunzongzheng"
-        }
-      ], 
-      "bestcoder": [
-        {
-          "score": 1541, 
-          "name": "hnust_sunzongzheng"
-        }
-      ], 
-      "cf": [
-        {
-          "score": 1220, 
-          "name": "hnust_sunzongzheng"
-        }
-      ], 
-      "poj": [], 
-      "bnuoj": [
-        {
-          "score": 3, 
-          "name": "hnust_sunzongzheng"
-        }
-      ], 
-      "hn": [
-        {
-          "score": 185, 
-          "name": "sunzongzhenghkd"
-        }
-      ], 
-      "acdream": [], 
-      "codechef": []
-    }, 
-    "hn": "sunzongzhenghkd", 
-    "other": "hnust_sunzongzheng"
-  }, 
-  {
-    "name": "王子毅", 
-    "bnu": "wangziyi", 
-    "id": "1305030208", 
-    "score": {
-      "hdu": [
-        {
-          "score": 10, 
-          "name": "hnust_wangziyi"
-        }
-      ], 
-      "bestcoder": [
-        {
-          "score": 1377, 
-          "name": "hnust_wangziyi"
-        }
-      ], 
-      "cf": [
-        {
-          "score": 1340, 
-          "name": "hnust_wangziyi"
-        }
-      ], 
-      "poj": [], 
-      "bnuoj": [], 
-      "hn": [
-        {
-          "score": 143, 
-          "name": "1305030208"
-        }
-      ], 
-      "acdream": [], 
-      "codechef": []
-    }, 
-    "hn": "1305030208", 
-    "other": "hnust_wangziyi"
-  }, 
-  {
     "xtu": "hnusttanghanying", 
     "name": "唐汉英", 
     "other": "hnust_tanghanying", 
@@ -502,6 +422,194 @@
     }, 
     "id": "1305040201", 
     "acdream": "hnusttanghanyin"
+  }, 
+  {
+    "name": "吴俊琪", 
+    "bestcoder": "nowangry", 
+    "other": "hnust_wujunqi", 
+    "poj": "1305030101", 
+    "hn": "1305030101", 
+    "score": {
+      "hdu": [
+        {
+          "score": 20, 
+          "name": "hnust_wujunqi"
+        }
+      ], 
+      "bestcoder": [], 
+      "cf": [
+        {
+          "score": 1342, 
+          "name": "hnust_wujunqi"
+        }
+      ], 
+      "poj": [], 
+      "bnuoj": [
+        {
+          "score": 20, 
+          "name": "hnust_wujunqi"
+        }
+      ], 
+      "hn": [
+        {
+          "score": 100, 
+          "name": "1305030101"
+        }
+      ], 
+      "acdream": [
+        {
+          "score": 28, 
+          "name": "hnust_wujunqi"
+        }
+      ], 
+      "codechef": []
+    }, 
+    "id": "1305030101"
+  }, 
+  {
+    "name": "刘兴龙", 
+    "other": "hnust_LiuXingLong", 
+    "hn": "1355010127", 
+    "score": {
+      "hdu": [
+        {
+          "score": 1, 
+          "name": "hnust_LiuXingLong"
+        }
+      ], 
+      "bestcoder": [], 
+      "cf": [
+        {
+          "score": 1246, 
+          "name": "hnust_LiuXingLong"
+        }
+      ], 
+      "poj": [
+        {
+          "score": 1, 
+          "name": "hnust_LiuXingLong"
+        }
+      ], 
+      "bnuoj": [
+        {
+          "score": 16, 
+          "name": "hnust_LiuXingLong"
+        }
+      ], 
+      "hn": [
+        {
+          "score": 100, 
+          "name": "1355010127"
+        }
+      ], 
+      "acdream": [
+        {
+          "score": 60, 
+          "name": "hnust_LiuXinLon"
+        }
+      ], 
+      "codechef": []
+    }, 
+    "id": "1355010127", 
+    "acdream": "hnust_LiuXinLon", 
+    "codechef": "hnustliuxinlon"
+  }, 
+  {
+    "hdu": [
+      "sunzongzhenghd", 
+      "hnust_sunzongzheng"
+    ], 
+    "name": "孙宗正", 
+    "other": "hnust_sunzongzheng", 
+    "hn": "sunzongzhenghkd", 
+    "score": {
+      "hdu": [
+        {
+          "score": 28, 
+          "name": "sunzongzhenghd"
+        }, 
+        {
+          "score": 9, 
+          "name": "hnust_sunzongzheng"
+        }
+      ], 
+      "bestcoder": [
+        {
+          "score": 1541, 
+          "name": "hnust_sunzongzheng"
+        }
+      ], 
+      "cf": [
+        {
+          "score": 1220, 
+          "name": "hnust_sunzongzheng"
+        }
+      ], 
+      "poj": [], 
+      "bnuoj": [
+        {
+          "score": 3, 
+          "name": "hnust_sunzongzheng"
+        }
+      ], 
+      "hn": [
+        {
+          "score": 185, 
+          "name": "sunzongzhenghkd"
+        }
+      ], 
+      "acdream": [
+        {
+          "score": 21, 
+          "name": "hnust_sunzz"
+        }
+      ], 
+      "codechef": []
+    }, 
+    "id": "1305030210", 
+    "acdream": "hnust_sunzz"
+  }, 
+  {
+    "name": "王子毅", 
+    "bnu": "wangziyi", 
+    "id": "1305030208", 
+    "score": {
+      "hdu": [
+        {
+          "score": 10, 
+          "name": "hnust_wangziyi"
+        }
+      ], 
+      "bestcoder": [
+        {
+          "score": 1377, 
+          "name": "hnust_wangziyi"
+        }
+      ], 
+      "cf": [
+        {
+          "score": 1340, 
+          "name": "hnust_wangziyi"
+        }
+      ], 
+      "poj": [], 
+      "bnuoj": [], 
+      "hn": [
+        {
+          "score": 143, 
+          "name": "1305030208"
+        }
+      ], 
+      "acdream": [
+        {
+          "score": 15, 
+          "name": "hnust_wangziyi"
+        }
+      ], 
+      "codechef": []
+    }, 
+    "hn": "1305030208", 
+    "other": "hnust_wangziyi"
   }, 
   {
     "name": "舒乐", 
@@ -689,85 +797,6 @@
     "acdream": "643872807"
   }, 
   {
-    "name": "吴俊琪", 
-    "bestcoder": "nowangry", 
-    "id": "1305030101", 
-    "score": {
-      "hdu": [
-        {
-          "score": 20, 
-          "name": "hnust_wujunqi"
-        }
-      ], 
-      "bestcoder": [], 
-      "cf": [
-        {
-          "score": 1342, 
-          "name": "hnust_wujunqi"
-        }
-      ], 
-      "poj": [], 
-      "bnuoj": [
-        {
-          "score": 20, 
-          "name": "hnust_wujunqi"
-        }
-      ], 
-      "hn": [], 
-      "acdream": [
-        {
-          "score": 28, 
-          "name": "hnust_wujunqi"
-        }
-      ], 
-      "codechef": []
-    }, 
-    "poj": "1305030101", 
-    "other": "hnust_wujunqi"
-  }, 
-  {
-    "name": "刘兴龙", 
-    "id": "1355010127", 
-    "score": {
-      "hdu": [
-        {
-          "score": 1, 
-          "name": "hnust_LiuXingLong"
-        }
-      ], 
-      "bestcoder": [], 
-      "cf": [
-        {
-          "score": 1246, 
-          "name": "hnust_LiuXingLong"
-        }
-      ], 
-      "poj": [
-        {
-          "score": 1, 
-          "name": "hnust_LiuXingLong"
-        }
-      ], 
-      "bnuoj": [
-        {
-          "score": 16, 
-          "name": "hnust_LiuXingLong"
-        }
-      ], 
-      "hn": [
-        {
-          "score": 100, 
-          "name": "1355010127"
-        }
-      ], 
-      "acdream": [], 
-      "codechef": []
-    }, 
-    "hn": "1355010127", 
-    "other": "hnust_LiuXingLong", 
-    "codechef": "hnustliuxinlon"
-  }, 
-  {
     "score": {
       "hdu": [
         {
@@ -856,7 +885,8 @@
   {
     "hdu": "A1399368351", 
     "name": "陈庆生", 
-    "id": "1305040217", 
+    "other": "hnust_chenqingsheng", 
+    "hn": "A1399368351", 
     "score": {
       "hdu": [
         {
@@ -884,11 +914,16 @@
           "name": "A1399368351"
         }
       ], 
-      "acdream": [], 
+      "acdream": [
+        {
+          "score": 4, 
+          "name": "hnust_chqish"
+        }
+      ], 
       "codechef": []
     }, 
-    "hn": "A1399368351", 
-    "other": "hnust_chenqingsheng"
+    "id": "1305040217", 
+    "acdream": "hnust_chqish"
   }, 
   {
     "name": "许道利", 
@@ -933,10 +968,16 @@
           "name": "1205020105"
         }
       ], 
-      "acdream": [], 
+      "acdream": [
+        {
+          "score": 78, 
+          "name": "hnustxudaoli"
+        }
+      ], 
       "codechef": []
     }, 
-    "id": "1305020122"
+    "id": "1305020122", 
+    "acdream": "hnustxudaoli"
   }, 
   {
     "hdu": "a524912269", 
@@ -993,6 +1034,8 @@
     "id": "1305030202"
   }, 
   {
+    "name": "陶仕谦", 
+    "id": "1305010210", 
     "score": {
       "hdu": [
         {
@@ -1030,18 +1073,23 @@
           "name": "1305010210"
         }
       ], 
-      "acdream": [], 
+      "acdream": [
+        {
+          "score": 41, 
+          "name": "hnusttaoshiqian"
+        }
+      ], 
       "codechef": []
     }, 
-    "other": "hnust_taoshiqian", 
     "hn": "1305010210", 
-    "name": "陶仕谦", 
-    "id": "1305010210"
+    "other": "hnust_taoshiqian", 
+    "acdream": "hnusttaoshiqian"
   }, 
   {
     "hdu": "hnust_caohuilin", 
     "name": "曹慧琳", 
-    "id": "1305040226", 
+    "other": "hnust_caohuilin", 
+    "hn": "caohuilin", 
     "score": {
       "hdu": [
         {
@@ -1069,11 +1117,16 @@
           "name": "caohuilin"
         }
       ], 
-      "acdream": [], 
+      "acdream": [
+        {
+          "score": 46, 
+          "name": "hnustcaohuilin"
+        }
+      ], 
       "codechef": []
     }, 
-    "hn": "caohuilin", 
-    "other": "hnust_caohuilin"
+    "id": "1305040226", 
+    "acdream": "hnustcaohuilin"
   }, 
   {
     "score": {
