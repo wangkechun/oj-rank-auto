@@ -51,7 +51,7 @@ yearFilter = ->
 			i.id[0..1]==year
 
 
-app = angular.module('myapp',['ui.bootstrap'])
+app = angular.module('myapp',[])
 app.controller('bodyCtrl',bodyCtrl)
 app.filter('score',scoreFilter)
 app.filter('year',yearFilter)

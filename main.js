@@ -92,7 +92,7 @@
     };
   };
 
-  app = angular.module('myapp', ['ui.bootstrap']);
+  app = angular.module('myapp', []);
 
   app.controller('bodyCtrl', bodyCtrl);
 
