@@ -3,16 +3,13 @@
         "name": "孙霄雲",
         "id": "1205020128",
         "hn": "1205020128",
-        "other": [
-            "hnust_Sunxiaoyun",
-            "hnust_sunxiaoyun",
-            "hnustsunxiaoyun"
-        ]
+        "hdu":"hnust_Sybil",
+        "other": "hnust_sunxiaoyun"
     },
     {
         "name": "吴展辉",
         "id": "1205020201",
-        "hn": "1205020201",
+        "hn": ["1205020201","wks6125980"],
         "hdu": "hnust_wzh",
         "cf": [
             "fswuweis",
@@ -83,7 +80,7 @@
             "sunzongzhenghd",
             "hnust_sunzongzheng"
         ],
-        "bnu": "hnustsunzongzheng"
+        "other":"hnust_sunzongzheng"
     },
     {
         "name": "王子毅",
@@ -140,7 +137,6 @@
         "id": "1305030101",
         "other": "hnust_wujunqi",
         "poj": "1305030101",
-        "bnuoj": "hnustwujunqi",
         "bestcoder": "nowangry"
     },
     {
@@ -148,7 +144,6 @@
         "id": "1355010127",
         "hn": "1355010127",
         "other": "hnust_LiuXingLong",
-        "bnuoj": "hnustLiuXingLong",
         "codechef": "hnustliuxinlon"
     },
     {
@@ -167,7 +162,7 @@
         "id": "1305040217",
         "hn": "A1399368351",
         "hdu": "A1399368351",
-        "other": "其他：hnust_chenqingsheng"
+        "other": "hnust_chenqingsheng"
     },
     {
         "name": "许道利",
@@ -190,14 +185,14 @@
         "name": "陶仕谦",
         "id": "1305010210",
         "hn": "1305010210",
-        "other": "nust_taoshiqian"
+        "other": "hnust_taoshiqian"
     },
     {
         "name": "曹慧琳",
         "id": "1305040226",
         "hn": "caohuilin",
         "hdu": "hnust_caohuilin",
-        "other": "hnustcaohuilin"
+        "other": "hnust_caohuilin"
     },
     {
         "name": "刘毅",
