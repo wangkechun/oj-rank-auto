@@ -2,8 +2,8 @@
 <html lang="zh-cn" ng-app="myapp">
   <head>
     <meta charset="utf8">
-    <title>王克纯的简历</title>
-    <meta name="description" content="王克纯的个人简历-应聘研发工程师(实习生)">
+    <title>湖南科技大学ACM集训队队员刷题榜</title>
+    <meta name="description" content="湖南科技大学ACM集训队队员刷题榜">
     <meta name="author" content="王克纯 &lt;hi@hi-hi.cn&gt;">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
     <link rel="shortcut icon" href="/favicon.ico">
@@ -17,31 +17,47 @@
   </head>
   <body ng-controller="bodyCtrl" class="container">
     <div class="row">
+      <h1>湖南科技大学ACM集训队队员刷题榜</h1>
+    </div>
+    <div ng-init="yearnow='all';predicate='id'" class="row">
+      <div class="col-md-12 col-sm-12">
+        <div role="group" class="btn-group">
+          <button type="button" ng-click="yearnow='all'" class="btn btn-default">全部</button>
+          <button type="button" ng-click="yearnow='14'" class="btn btn-default">14</button>
+          <button type="button" ng-click="yearnow='13'" class="btn btn-default">13</button>
+          <button type="button" ng-click="yearnow='12'" class="btn btn-default">12</button>
+          <button type="button" ng-click="yearnow='11'" class="btn btn-default">11</button>
+          <button type="button" ng-click="yearnow='10'" class="btn btn-default">10</button>
+          <button type="button" ng-click="yearnow='09'" class="btn btn-default">09</button>
+        </div>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-md-8 col-sm-12">
         <table class="table table-bordered table-striped table-hover">
           <tr>
-            <th>学号</th>
+            <th ng-click="predicate='id'">学号</th>
             <th>姓名</th>
-            <th>hdu</th>
-            <th>hn</th>
-            <th>bnuoj</th>
-            <th>poj</th>
-            <th>acdream</th>
-            <th>cf</th>
-            <th>bestcoder</th>
-            <th>codechef</th>
+            <th ng-click="predicate='-real.hdu'">hdu</th>
+            <th ng-click="predicate='-real.hn'">hn</th>
+            <th ng-click="predicate='-real.bnu'">bnuoj</th>
+            <th ng-click="predicate='-real.poj'">poj</th>
+            <th ng-click="predicate='-real.acdream'">acdream</th>
+            <th ng-click="predicate='-real.cf'">cf</th>
+            <th ng-click="predicate='-real.bestcoder'">bestcoder</th>
+            <th ng-click="predicate='-real.codechef'">codechef</th>
           </tr>
-          <tr ng-repeat="user in data" ng-click="clickuser($index)">
+          <tr ng-repeat="user in data | year:yearnow |orderBy:predicate " ng-click="clickuser($index)">
             <td>{{user.id}}</td>
             <td>{{user.name}}</td>
-            <td>{{user.score.hdu|score}}</td>
-            <td>{{user.score.hn|score}}</td>
-            <td>{{user.score.bnuoj|score}}</td>
-            <td>{{user.score.poj|score}}</td>
-            <td>{{user.score.acdream|score}}</td>
-            <td>{{user.score.cf|score}}</td>
-            <td>{{user.score.bestcoder|score}}</td>
-            <td>{{user.score.codechef|score}}</td>
+            <td>{{user.real.hdu}}</td>
+            <td>{{user.real.hn}}</td>
+            <td>{{user.real.bnu}}</td>
+            <td>{{user.real.poj}}</td>
+            <td>{{user.real.acdream}}</td>
+            <td>{{user.real.cf}}</td>
+            <td>{{user.real.bestcoder}}</td>
+            <td>{{user.real.codechef}}</td>
           </tr>
         </table>
       </div>

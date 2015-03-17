@@ -12,7 +12,7 @@ def hn(name):
     ac = r.xpath('//*[@id="statics"]/tr[2]/td[2]/a/text()').extract()[0]
     return ac
 
-def bnuoj(name):
+def bnu(name):
     name = name.replace('_','')
     r = Selector(text=requests.get('http://www.bnuoj.com/v3/userinfo.php?name='+name,timeout=6).text)
     ac = r.xpath('//*[@id="userinfo"]/table/tr[9]/td/div[1]/text()').extract()[0]
@@ -45,7 +45,12 @@ def bestcoder(name):
 def codechef(name):
     r = Selector(text=requests.get('http://www.codechef.com/users/'+name,timeout=10).text)
     r = r.xpath('//*[@id="hp-sidebar-blurbRating"]/div/table/tr[2]/td[2]//*/text()').extract()
-    return r[0]
+    r = r[0]
+    try:
+        r = str(int(r))
+    except:
+        return -1
+    return r
 
-oj={'hdu':hdu,'hn':hn,'bnuoj':bnuoj,'poj':poj,'acdream':acdream,'cf':cf,'bestcoder':bestcoder,'codechef':codechef}
+oj={'hdu':hdu,'hn':hn,'bnu':bnu,'poj':poj,'acdream':acdream,'cf':cf,'bestcoder':bestcoder,'codechef':codechef}
 

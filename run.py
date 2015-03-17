@@ -4,6 +4,10 @@ import types
 
 acmer = json.load(open('acm.json'))
 
+
+from redis import Redis
+rds = Redis()
+
 def getuser(user):
     name = user['name']
     pid = user['id']
@@ -15,18 +19,25 @@ def getuser(user):
             score[i] ={'name':user['other']}
         if type(score[i]['name'])!=types.ListType:
             score[i]['name'] = [ score[i]['name'] ]
-    print score
+    # print score
     for k,v in score.items():
-        func = oj.oj[k]
-        def clu(name):
-            print k+"#"+name
+        def clu(oj,name):
+            func = oj.oj[k]
+            key =  k+"#"+name
+            r = rds.get(key)
+            if r:
+                return r
+            print key
             try:
-                return int(float(func(name)))
+                r = int(float(func(name)))
+                rds.set(key,r)
+                return r
             except Exception as e:
-                print(user['name'],e)
+                if isinstance(e,IndexError):
+                    rds.set(key,r)
+                print(key,e)
                 return -1
-        s = [clu(name) for name in v['name'] ]
-        
+        s = [clu(oj,name) for name in v['name'] ]
         score[k]= [{'name':i[0],'score':i[1]} for i in zip(v['name'],s) if i[1]>0 ]
     
     user['score'] = score

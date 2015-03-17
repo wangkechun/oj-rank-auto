@@ -4,6 +4,7 @@
         "id": "1205020128",
         "hn": "1205020128",
         "hdu":["hnust_Sybil","Sybil"],
+        "bestcoder":["hnust_Sybil","Sybil"],
         "acdream":"Cloudy",
         "other": "hnust_sunxiaoyun"
     },
@@ -15,11 +16,10 @@
         "acdream":"fswuwei",
         "cf": [
             "fswuweis",
-            "hnust_wuzhanhui"
+            "hnust_wuzhanhui1"
         ],
         "codechef": "hnustwzh",
         "bestcoder": "feng2013",
-        "acdream": "fswuweis",
         "other": "hnust_wuzhanhui"
     },
     {
@@ -58,13 +58,14 @@
             "1207020203",
             "acjiji"
         ],
+        "acdream":"acjiji",
         "other": "hnust_zhouchaoyuan",
         "hdu": [
             "hnust_zhouchaoyuan",
             "1207020203"
         ],
         "poj": "1207020203",
-        "bnuoj": [
+        "bnu": [
             "hnustzhouchaoyuan",
             "acjiji",
             "1207020203"
@@ -90,6 +91,23 @@
         "hn":"1305030101",
         "poj": "1305030101",
         "bestcoder": "nowangry"
+    },
+    {
+        "name": "陈迪祺",
+        "id": "1305030202",
+        "hdu": "a524912269",
+        "poj": "DKDChan",
+        "hn": "DKDChan",
+        "codechef":"dkdchan",
+        "bestcoder": "S_Injuly",
+        "other": "hnust_chendiqi"
+    },
+    {
+        "name": "陶仕谦",
+        "id": "1305010210",
+        "hn": "1305010210",
+        "acdream":"hnusttaoshiqian",
+        "other": "hnust_taoshiqian"
     },
     {
         "name": "刘兴龙",
@@ -123,7 +141,7 @@
         "name": "舒乐",
         "id": "1305030106",
         "hn": "1305030106",
-        "hdoj": "mo1302267724",
+        "hdu": "mo1302267724",
         "other": "hnust_shule"
     },
     {
@@ -134,25 +152,6 @@
         "bnu": "huangmengjie",
         "uva": "huangmengjie",
         "acdream": "huangmengjie"
-    },
-    {
-        "name": "华翔",
-        "id": "1305040207",
-        "hn": "1305040207",
-        "other": "hnust_huaxiang",
-        "bnu": "hnusthuaxiang",
-        "hdu": "hnust_1305040207"
-    },
-    {
-        "name": "蔡永龙",
-        "id": "1305030212",
-        "hn": "1305030212",
-        "hdu": "643872807",
-        "other": "hnust_caiyonglong",
-        "zoj": "643872807",
-        "bnuoj": "643872807",
-        "bestcoder": "643872807",
-        "acdream": "643872807"
     },
 
 
@@ -185,22 +184,17 @@
         "other": "hnust_xudaoli"
     },
     {
-        "name": "陈迪祺",
-        "id": "1305030202",
-        "hdu": "a524912269",
-        "poj": "DKDChan",
-        "hn": "DKDChan",
-        "codechef":"dkdchan",
-        "bestcoder": "S_Injuly",
-        "other": "hnust_chendiqi"
+        "name": "蔡永龙",
+        "id": "1305030212",
+        "hn": "1305030212",
+        "hdu": "643872807",
+        "other": "hnust_caiyonglong",
+        "zoj": "643872807",
+        "bnu": "643872807",
+        "bestcoder": "643872807",
+        "acdream": "643872807"
     },
-    {
-        "name": "陶仕谦",
-        "id": "1305010210",
-        "hn": "1305010210",
-        "acdream":"hnusttaoshiqian",
-        "other": "hnust_taoshiqian"
-    },
+
     {
         "name": "曹慧琳",
         "id": "1305040226",
@@ -212,6 +206,59 @@
     {
         "name": "刘毅",
         "id": "1355010102",
+        "hn":"lueyi",
         "other": "hnust_liuyi"
+    },
+    {
+        "name": "陈康",
+        "id": "1305010108",
+        "hdu":"c519696033",
+        "other": "hnust_chenkang"
+    },
+    {
+        "name": "华翔",
+        "id": "1305040207",
+        "hn": "1305040207",
+        "other": "hnust_huaxiang",
+        "bnu": "hnusthuaxiang",
+        "hdu": "hnust_1305040207"
+    },
+    {
+      "name":"周开锋",
+      "id":"1005020211",
+      "hdu":"zhoukaifeng",
+      "other":"lazier"
+    },
+    {
+      "name":"叶剑飞",
+      "id":"1005020201",
+      "other":"yejianfei"
+    },
+    {
+      "name":"阮柳春",
+      "id":"0900000000",
+      "other":"ruan123"
+    },
+    {
+      "name":"谢宏浩",
+      "id":"1105030117",
+      "other":"hnust_xiehonghao"
+    },
+    {
+      "name":"马定威",
+      "id":"1105030305",
+      "other":"hnust_madingwei"
+    },
+    {
+      "name":"陈业海",
+      "id":"1207020104",
+      "other":"hnust_chenyehai"
+    },
+    {
+      "name":"陈加贝",
+      "id":"1205030209",
+      "hn":"1205030209",
+      "other":"hnust_chenjiabei"
     }
+
 ]

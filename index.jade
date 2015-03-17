@@ -2,8 +2,8 @@ doctype html
 html(lang='zh-cn',ng-app="myapp")
   head
     meta(charset='utf8')
-    title 王克纯的简历
-    meta(name='description', content='王克纯的个人简历-应聘研发工程师(实习生)')
+    title 湖南科技大学ACM集训队队员刷题榜
+    meta(name='description', content='湖南科技大学ACM集训队队员刷题榜')
     meta(name='author', content='王克纯 <hi@hi-hi.cn>')
     meta(name='viewport', content='width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0')
     link(rel='shortcut icon', href='/favicon.ico')
@@ -15,30 +15,43 @@ html(lang='zh-cn',ng-app="myapp")
       }
   body.container(ng-controller='bodyCtrl')
     .row
+      h1 湖南科技大学ACM集训队队员刷题榜
+    .row(ng-init="yearnow='all';predicate='id'")
+      .col-md-12.col-sm-12
+        .btn-group(role="group")
+          button.btn.btn-default(type="button",ng-click="yearnow='all'") 全部
+          button.btn.btn-default(type="button",ng-click="yearnow='14'") 14
+          button.btn.btn-default(type="button",ng-click="yearnow='13'") 13
+          button.btn.btn-default(type="button",ng-click="yearnow='12'") 12
+          button.btn.btn-default(type="button",ng-click="yearnow='11'") 11
+          button.btn.btn-default(type="button",ng-click="yearnow='10'") 10
+          button.btn.btn-default(type="button",ng-click="yearnow='09'") 09
+    .row
       .col-md-8.col-sm-12
         table.table.table-bordered.table-striped.table-hover
           tr
-            th 学号
+            th(ng-click="predicate='id'") 学号
             th 姓名
-            th hdu
-            th hn
-            th bnuoj
-            th poj
-            th acdream
-            th cf
-            th bestcoder
-            th codechef
-          tr(ng-repeat="user in data",ng-click="clickuser($index)")
+            th(ng-click="predicate='-real.hdu'") hdu
+            th(ng-click="predicate='-real.hn'") hn
+            th(ng-click="predicate='-real.bnu'") bnuoj
+            th(ng-click="predicate='-real.poj'") poj
+            th(ng-click="predicate='-real.acdream'") acdream
+            th(ng-click="predicate='-real.cf'") cf
+            th(ng-click="predicate='-real.bestcoder'") bestcoder
+            th(ng-click="predicate='-real.codechef'") codechef
+          tr(ng-repeat="user in data | year:yearnow |orderBy:predicate ",ng-click="clickuser($index)")
             td {{user.id}}
             td {{user.name}}
-            td {{user.score.hdu|score}}
-            td {{user.score.hn|score}}
-            td {{user.score.bnuoj|score}}
-            td {{user.score.poj|score}}
-            td {{user.score.acdream|score}}
-            td {{user.score.cf|score}}
-            td {{user.score.bestcoder|score}}
-            td {{user.score.codechef|score}}
+            td {{user.real.hdu}}
+            td {{user.real.hn}}
+            td {{user.real.bnu}}
+            td {{user.real.poj}}
+            td {{user.real.acdream}}
+            td {{user.real.cf}}
+            td {{user.real.bestcoder}}
+            td {{user.real.codechef}}
+
       .col-md-4.col-sm-12
         table.table.table-bordered.table-striped.table-hover
           tr

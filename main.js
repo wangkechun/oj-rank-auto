@@ -1,11 +1,29 @@
 (function() {
-  var app, bodyCtrl, scoreFilter;
+  var app, bodyCtrl, scoreFilter, yearFilter;
 
-  bodyCtrl = function($scope, $http) {
+  bodyCtrl = function($scope, $http, $filter) {
+    var scoreFilter;
+    scoreFilter = $filter('score');
     $http.get('out.json').success(function(data) {
+      var user, _i, _len, _ref, _results;
       console.log(data);
       $scope.data = data;
-      return $scope.clickuser(0);
+      $scope.clickuser(0);
+      _ref = $scope.data;
+      _results = [];
+      for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+        user = _ref[_i];
+        user.real = {};
+        user.real.hdu = parseInt(scoreFilter(user.score.hdu));
+        user.real.hn = parseInt(scoreFilter(user.score.hn));
+        user.real.bnu = parseInt(scoreFilter(user.score.bnu));
+        user.real.poj = parseInt(scoreFilter(user.score.poj));
+        user.real.acdream = parseInt(scoreFilter(user.score.acdream));
+        user.real.cf = parseInt(scoreFilter(user.score.cf));
+        user.real.bestcoder = parseInt(scoreFilter(user.score.bestcoder));
+        _results.push(user.real.codechef = parseInt(scoreFilter(user.score.codechef)));
+      }
+      return _results;
     });
     $scope.clickuser = function($index) {
       var i, k, t, v, _ref, _results;
@@ -35,7 +53,7 @@
           return "http://acm.hdu.edu.cn/userstatus.php?user=" + name;
         case "hn":
           return "http://125.221.232.253/JudgeOnline/userinfo.php?user=" + name;
-        case "bnuoj":
+        case "bnu":
           return "http://www.bnuoj.com/v3/userinfo.php?name=" + name.replace("_", "");
         case "poj":
           return "http://poj.org/userstatus?user_id=" + name;
@@ -63,10 +81,23 @@
     };
   };
 
+  yearFilter = function() {
+    return function(data, year) {
+      return _.filter(data, function(i) {
+        if (year === "all") {
+          return true;
+        }
+        return i.id.slice(0, 2) === year;
+      });
+    };
+  };
+
   app = angular.module('myapp', ['ui.bootstrap']);
 
   app.controller('bodyCtrl', bodyCtrl);
 
   app.filter('score', scoreFilter);
+
+  app.filter('year', yearFilter);
 
 }).call(this);
