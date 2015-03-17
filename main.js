@@ -2,7 +2,7 @@
   var app, bodyCtrl, scoreFilter;
 
   bodyCtrl = function($scope, $http) {
-    $http.get('/out.json').success(function(data) {
+    $http.get('out.json').success(function(data) {
       console.log(data);
       $scope.data = data;
       return $scope.clickuser(0);

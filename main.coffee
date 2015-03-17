@@ -1,5 +1,5 @@
 bodyCtrl = ($scope,$http)->
-	$http.get('/out.json').success (data)->
+	$http.get('out.json').success (data)->
 		console.log data
 		$scope.data = data
 		$scope.clickuser(0)
