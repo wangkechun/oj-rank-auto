@@ -45,7 +45,7 @@
             <th ng-click="predicate='-real.acdream'">acdream</th>
             <th ng-click="predicate='-real.cf'">cf</th>
             <th ng-click="predicate='-real.bestcoder'">bestcoder</th>
-            <th ng-click="predicate='-real.codechef'">codechef</th>
+            <th ng-click="predicate='-real.codechef'">codechef(排名)</th>
           </tr>
           <tr ng-repeat="user in data | year:yearnow |orderBy:predicate " ng-click="clickuser($index)">
             <td>{{user.id}}</td>
