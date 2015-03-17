@@ -4,6 +4,7 @@
         "id": "1205020128",
         "hn": "1205020128",
         "hdu":"hnust_Sybil",
+        "acdream":"Cloudy",
         "other": "hnust_sunxiaoyun"
     },
     {
@@ -11,6 +12,7 @@
         "id": "1205020201",
         "hn": ["1205020201","wks6125980"],
         "hdu": "hnust_wzh",
+        "acdream":"fswuwei",
         "cf": [
             "fswuweis",
             "hnust_wuzhanhui"
@@ -73,9 +75,34 @@
         "codechef": "zcy1zhy3"
     },
     {
+        "name": "唐汉英",
+        "id": "1305040201",
+        "hn": "w461481838",
+        "xtu": "hnusttanghanying",
+        "other": "hnust_tanghanying",
+        "acdream": "hnusttanghanyin"
+    },
+    {
+        "name": "吴俊琪",
+        "id": "1305030101",
+        "other": "hnust_wujunqi",
+        "hn":"1305030101",
+        "poj": "1305030101",
+        "bestcoder": "nowangry"
+    },
+    {
+        "name": "刘兴龙",
+        "id": "1355010127",
+        "hn": "1355010127",
+        "other": "hnust_LiuXingLong",
+        "acdream":"hnust_LiuXinLon",
+        "codechef": "hnustliuxinlon"
+    },
+    {
         "name": "孙宗正",
         "id": "1305030210",
         "hn": "sunzongzhenghkd",
+        "acdream":"hnust_sunzz",
         "hdu": [
             "sunzongzhenghd",
             "hnust_sunzongzheng"
@@ -89,14 +116,7 @@
         "bnu": "wangziyi",
         "other": "hnust_wangziyi"
     },
-    {
-        "name": "唐汉英",
-        "id": "1305040201",
-        "hn": "w461481838",
-        "xtu": "hnusttanghanying",
-        "other": "hnust_tanghanying",
-        "acdream": "hnusttanghanyin"
-    },
+
     {
         "name": "舒乐",
         "id": "1305030106",
@@ -132,20 +152,8 @@
         "bestcoder": "643872807",
         "acdream": "643872807"
     },
-    {
-        "name": "吴俊琪",
-        "id": "1305030101",
-        "other": "hnust_wujunqi",
-        "poj": "1305030101",
-        "bestcoder": "nowangry"
-    },
-    {
-        "name": "刘兴龙",
-        "id": "1355010127",
-        "hn": "1355010127",
-        "other": "hnust_LiuXingLong",
-        "codechef": "hnustliuxinlon"
-    },
+
+
     {
         "name": "王嘉康",
         "id": "1305030105",
@@ -161,6 +169,7 @@
         "name": "陈庆生",
         "id": "1305040217",
         "hn": "A1399368351",
+        "acdream":"hnust_chqish",
         "hdu": "A1399368351",
         "other": "hnust_chenqingsheng"
     },
@@ -169,6 +178,7 @@
         "id": "1305020122",
         "hn": "1205020105",
         "zoj": "hnustxudaoli",
+        "acdream":"hnustxudaoli",
         "poj": "hnustxudaoli",
         "other": "hnust_xudaoli"
     },
@@ -185,12 +195,14 @@
         "name": "陶仕谦",
         "id": "1305010210",
         "hn": "1305010210",
+        "acdream":"hnusttaoshiqian",
         "other": "hnust_taoshiqian"
     },
     {
         "name": "曹慧琳",
         "id": "1305040226",
         "hn": "caohuilin",
+        "acdream":"hnustcaohuilin",
         "hdu": "hnust_caohuilin",
         "other": "hnust_caohuilin"
     },
