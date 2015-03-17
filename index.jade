@@ -1,0 +1,41 @@
+doctype html
+html(lang='zh-cn',ng-app="myapp")
+  head
+    meta(charset='utf8')
+    title 王克纯的简历
+    meta(name='description', content='王克纯的个人简历-应聘研发工程师(实习生)')
+    meta(name='author', content='王克纯 <hi@hi-hi.cn>')
+    meta(name='viewport', content='width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0')
+    link(rel='shortcut icon', href='/favicon.ico')
+    link(rel='stylesheet', type='text/css', href='bower_components/bootstrap/dist/css/bootstrap.min.css')
+    // link(rel='stylesheet', type='text/css', href='main.css')
+  body.container(ng-controller='bodyCtrl')
+    table.table.table-bordered.table-striped.table-hover
+      tr.info
+        th id
+        th name
+        th hdu
+        th hn
+        th bnuoj
+        th poj
+        th acdream
+        th cf
+        th bestcoder
+        th codechef
+      tr(ng-repeat="user in data")
+        td {{user.id}}
+        td {{user.name}}
+        td {{user.score.hdu|score}}
+        td {{user.score.hn|score}}
+        td {{user.score.bnuoj|score}}
+        td {{user.score.poj|score}}
+        td {{user.score.acdream|score}}
+        td {{user.score.cf|score}}
+        td {{user.score.bestcoder|score}}
+        td {{user.score.codechef|score}}
+
+    script(src='bower_components/underscore/underscore-min.js')
+    script(src='bower_components/angularjs/angular.min.js')
+    script(src='bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js')
+    script(src='main.js')
+
