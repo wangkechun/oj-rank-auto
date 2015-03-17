@@ -271,7 +271,9 @@
   {
     "hdu": "hunst_fjy", 
     "name": "樊劲宇", 
-    "bestcoder": "hnust_fanjinyu", 
+    "bestcoder": [
+      "hunst_fjy"
+    ], 
     "zoj": "hnust_fjy", 
     "cf": [
       "hnust_fanjinyu", 
@@ -290,8 +292,8 @@
       ], 
       "bestcoder": [
         {
-          "score": "None", 
-          "name": "hnust_fanjinyu"
+          "score": 1801, 
+          "name": "hunst_fjy"
         }
       ], 
       "cf": [
@@ -1814,32 +1816,52 @@
     "score": {
       "hdu": [
         {
-          "score": 11, 
+          "score": "11", 
           "name": "hnust_chenjiabei"
         }
       ], 
-      "bestcoder": [], 
+      "bestcoder": [
+        {
+          "score": "0", 
+          "name": "hnust_chenjiabei"
+        }
+      ], 
       "cf": [
         {
-          "score": 1227, 
+          "score": "1227", 
           "name": "hnust_chenjiabei"
         }
       ], 
       "bnu": [
         {
-          "score": 10, 
+          "score": "10", 
           "name": "hnust_chenjiabei"
         }
       ], 
-      "poj": [], 
+      "poj": [
+        {
+          "score": "None", 
+          "name": "hnust_chenjiabei"
+        }
+      ], 
       "hn": [
         {
-          "score": 197, 
+          "score": "197", 
           "name": "1205030209"
         }
       ], 
-      "acdream": [], 
-      "codechef": []
+      "acdream": [
+        {
+          "score": "None", 
+          "name": "hnust_chenjiabei"
+        }
+      ], 
+      "codechef": [
+        {
+          "score": "None", 
+          "name": "hnust_chenjiabei"
+        }
+      ]
     }, 
     "other": "hnust_chenjiabei", 
     "hn": "1205030209", 

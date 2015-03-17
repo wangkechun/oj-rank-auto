@@ -45,7 +45,7 @@
         "hdu": "hunst_fjy",
         "poj": "hnust_fjy",
         "zoj": "hnust_fjy",
-        "bestcoder": "hnust_fanjinyu",
+        "bestcoder": ["hunst_fjy"],
         "cf": [
             "hnust_fanjinyu",
             "Sunshine117"
