@@ -40,7 +40,7 @@ html(lang='zh-cn',ng-app="myapp")
             th(ng-click="predicate='-real.cf'") cf
             th(ng-click="predicate='-real.bestcoder'") bestcoder
             th(ng-click="predicate='-real.codechef'") codechef(排名)
-          tr(ng-repeat="user in data | year:yearnow |orderBy:predicate ",ng-click="clickuser($index)")
+          tr(ng-repeat="user in data | year:yearnow |orderBy:predicate ",ng-click="clickuser(user)")
             td {{user.id}}
             td {{user.name}}
             td {{user.real.hdu}}

@@ -25,9 +25,9 @@
       }
       return _results;
     });
-    $scope.clickuser = function($index) {
+    $scope.clickuser = function(user) {
       var i, k, t, v, _ref, _results;
-      $scope.usernow = $scope.data[$index];
+      $scope.usernow = user;
       window.w = $scope;
       $scope.usernow.ojlist = [];
       _ref = $scope.usernow.score;

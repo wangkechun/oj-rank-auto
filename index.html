@@ -47,7 +47,7 @@
             <th ng-click="predicate='-real.bestcoder'">bestcoder</th>
             <th ng-click="predicate='-real.codechef'">codechef(排名)</th>
           </tr>
-          <tr ng-repeat="user in data | year:yearnow |orderBy:predicate " ng-click="clickuser($index)">
+          <tr ng-repeat="user in data | year:yearnow |orderBy:predicate " ng-click="clickuser(user)">
             <td>{{user.id}}</td>
             <td>{{user.name}}</td>
             <td>{{user.real.hdu}}</td>

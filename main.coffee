@@ -15,8 +15,8 @@ bodyCtrl = ($scope,$http,$filter)->
 			user.real.bestcoder = parseInt(scoreFilter(user.score.bestcoder))
 			user.real.codechef = parseInt(scoreFilter(user.score.codechef))
 
-	$scope.clickuser = ($index)->
-		$scope.usernow = $scope.data[$index]
+	$scope.clickuser = (user)->
+		$scope.usernow = user
 		window.w = $scope
 		$scope.usernow.ojlist = []
 		for k,v of $scope.usernow.score
