@@ -192,7 +192,7 @@
           "name": "hnust_wangkechun"
         }, 
         {
-          "score": "103", 
+          "score": "105", 
           "name": "wks6125980"
         }
       ], 
@@ -216,7 +216,7 @@
     "score": {
       "hdu": [
         {
-          "score": "373", 
+          "score": "374", 
           "name": "hnust_fengyu"
         }
       ], 
@@ -292,7 +292,7 @@
       ], 
       "bestcoder": [
         {
-          "score": 1801, 
+          "score": "1801", 
           "name": "hunst_fjy"
         }
       ], 
@@ -320,7 +320,7 @@
       ], 
       "hn": [
         {
-          "score": "202", 
+          "score": "204", 
           "name": "1205020210"
         }
       ], 
@@ -413,7 +413,7 @@
           "name": "1207020203"
         }, 
         {
-          "score": "32", 
+          "score": "None", 
           "name": "acjiji"
         }
       ], 
@@ -584,7 +584,7 @@
       ], 
       "poj": [
         {
-          "score": "27", 
+          "score": "28", 
           "name": "DKDChan"
         }
       ], 
@@ -668,14 +668,15 @@
     "acdream": "hnusttaoshiqian"
   }, 
   {
+    "hdu": "hnust_LiuXingXong", 
     "name": "刘兴龙", 
     "other": "hnust_LiuXingLong", 
     "hn": "1355010127", 
     "score": {
       "hdu": [
         {
-          "score": "1", 
-          "name": "hnust_LiuXingLong"
+          "score": "21", 
+          "name": "hnust_LiuXingXong"
         }
       ], 
       "bestcoder": [
@@ -716,7 +717,7 @@
       ], 
       "codechef": [
         {
-          "score": "None", 
+          "score": "-1", 
           "name": "hnustliuxinlon"
         }
       ]
@@ -1184,7 +1185,7 @@
       ], 
       "codechef": [
         {
-          "score": "None", 
+          "score": "-1", 
           "name": "hnust_xudaoli"
         }
       ]
@@ -1233,7 +1234,7 @@
       ], 
       "hn": [
         {
-          "score": "179", 
+          "score": "None", 
           "name": "1305030212"
         }
       ], 
@@ -1303,13 +1304,14 @@
       ], 
       "codechef": [
         {
-          "score": "None", 
-          "name": "hnust_caohuilin"
+          "score": "38943", 
+          "name": "hnustcaohuilin"
         }
       ]
     }, 
     "id": "1305040226", 
-    "acdream": "hnustcaohuilin"
+    "acdream": "hnustcaohuilin", 
+    "codechef": "hnustcaohuilin"
   }, 
   {
     "score": {
@@ -1789,12 +1791,7 @@
           "name": "hnust_chenyehai"
         }
       ], 
-      "hn": [
-        {
-          "score": "None", 
-          "name": "hnust_chenyehai"
-        }
-      ], 
+      "hn": [], 
       "acdream": [
         {
           "score": "55", 
