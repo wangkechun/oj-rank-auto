@@ -3,7 +3,7 @@ import requests
 import re
 def hdu(name):
     r = Selector(text=requests.get('http://acm.hdu.edu.cn/userstatus.php?user='+name,timeout=6).text)
-    ac = r.xpath('/html/body/table/tr[4]/td/table/tr/td/table[1]/tr[3]/td[2]/text()').extract()[0]
+    ac = r.xpath('/html/body/table/tr[4]/td/table/tr/td/table[1]/tr[4]/td[2]/text()').extract()[0]
     return ac
 
 
