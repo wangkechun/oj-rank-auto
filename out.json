@@ -14,15 +14,20 @@
     "score": {
       "hdu": [
         {
-          "score": 8, 
+          "score": 6, 
           "name": "hnust_Sybil"
         }, 
         {
-          "score": 149, 
+          "score": 141, 
           "name": "Sybil"
         }
       ], 
-      "bestcoder": [], 
+      "bestcoder": [
+        {
+          "score": 1493, 
+          "name": "hnust_Sybil"
+        }
+      ], 
       "cf": [
         {
           "score": 1707, 
@@ -66,7 +71,7 @@
     "score": {
       "hdu": [
         {
-          "score": 205, 
+          "score": 198, 
           "name": "hnust_wzh"
         }
       ], 
@@ -94,7 +99,7 @@
       ], 
       "poj": [
         {
-          "score": 21, 
+          "score": 23, 
           "name": "hnust_wuzhanhui"
         }
       ], 
@@ -110,7 +115,12 @@
           "name": "fswuwei"
         }
       ], 
-      "codechef": []
+      "codechef": [
+        {
+          "score": 100, 
+          "name": "hnustwzh"
+        }
+      ]
     }, 
     "id": "1205020201", 
     "acdream": "fswuwei", 
@@ -130,15 +140,20 @@
     "score": {
       "hdu": [
         {
-          "score": 16, 
+          "score": 9, 
           "name": "hnust_wangkechun"
         }, 
         {
-          "score": 621, 
+          "score": 616, 
           "name": "wangkechun"
         }
       ], 
-      "bestcoder": [], 
+      "bestcoder": [
+        {
+          "score": 1484, 
+          "name": "hnust_wangkechun"
+        }
+      ], 
       "cf": [
         {
           "score": 1403, 
@@ -182,13 +197,13 @@
     "score": {
       "hdu": [
         {
-          "score": 386, 
+          "score": 383, 
           "name": "hnust_fengyu"
         }
       ], 
       "bestcoder": [
         {
-          "score": 1683, 
+          "score": 1519, 
           "name": "hnust_fengyu"
         }
       ], 
@@ -206,7 +221,7 @@
       ], 
       "poj": [
         {
-          "score": 99, 
+          "score": 102, 
           "name": "hnust_fengyu"
         }
       ], 
@@ -252,13 +267,13 @@
     "score": {
       "hdu": [
         {
-          "score": 222, 
+          "score": 219, 
           "name": "hunst_fjy"
         }
       ], 
       "bestcoder": [
         {
-          "score": 1801, 
+          "score": 1864, 
           "name": "hunst_fjy"
         }
       ], 
@@ -329,7 +344,7 @@
     "score": {
       "hdu": [
         {
-          "score": 133, 
+          "score": 128, 
           "name": "hnust_zhouchaoyuan"
         }, 
         {
@@ -339,7 +354,7 @@
       ], 
       "bestcoder": [
         {
-          "score": 1742, 
+          "score": 1606, 
           "name": "hnust_zhouchaoyuan"
         }
       ], 
@@ -359,7 +374,7 @@
           "name": "hnustzhouchaoyuan"
         }, 
         {
-          "score": 215, 
+          "score": 218, 
           "name": "acjiji"
         }, 
         {
@@ -409,7 +424,7 @@
       ], 
       "bestcoder": [
         {
-          "score": 1506, 
+          "score": 1381, 
           "name": "hnust_tanghanying"
         }
       ], 
@@ -427,7 +442,7 @@
       ], 
       "poj": [
         {
-          "score": 12, 
+          "score": 13, 
           "name": "hnust_tanghanying"
         }
       ], 
@@ -457,7 +472,7 @@
     "score": {
       "hdu": [
         {
-          "score": 20, 
+          "score": 21, 
           "name": "hnust_wujunqi"
         }
       ], 
@@ -501,13 +516,13 @@
     "score": {
       "hdu": [
         {
-          "score": 69, 
+          "score": 70, 
           "name": "a524912269"
         }
       ], 
       "bestcoder": [
         {
-          "score": 1646, 
+          "score": 1759, 
           "name": "S_Injuly"
         }
       ], 
@@ -525,7 +540,7 @@
       ], 
       "poj": [
         {
-          "score": 32, 
+          "score": 33, 
           "name": "DKDChan"
         }
       ], 
@@ -557,13 +572,13 @@
     "score": {
       "hdu": [
         {
-          "score": 29, 
+          "score": 25, 
           "name": "hnust_taoshiqian"
         }
       ], 
       "bestcoder": [
         {
-          "score": 1572, 
+          "score": 1699, 
           "name": "hnust_taoshiqian"
         }
       ], 
@@ -611,7 +626,7 @@
     "score": {
       "hdu": [
         {
-          "score": 22, 
+          "score": 20, 
           "name": "hnust_LiuXingXong"
         }
       ], 
@@ -664,17 +679,17 @@
     "score": {
       "hdu": [
         {
-          "score": 28, 
+          "score": 27, 
           "name": "sunzongzhenghd"
         }, 
         {
-          "score": 15, 
+          "score": 13, 
           "name": "hnust_sunzongzheng"
         }
       ], 
       "bestcoder": [
         {
-          "score": 1541, 
+          "score": 1407, 
           "name": "hnust_sunzongzheng"
         }
       ], 
@@ -715,13 +730,13 @@
     "score": {
       "hdu": [
         {
-          "score": 10, 
+          "score": 8, 
           "name": "hnust_wangziyi"
         }
       ], 
       "bestcoder": [
         {
-          "score": 1377, 
+          "score": 1292, 
           "name": "hnust_wangziyi"
         }
       ], 
@@ -811,13 +826,13 @@
     "score": {
       "hdu": [
         {
-          "score": 12, 
+          "score": 11, 
           "name": "hnust_huangmengjie"
         }
       ], 
       "bestcoder": [
         {
-          "score": 1421, 
+          "score": 1321, 
           "name": "hnust_huangmengjie"
         }
       ], 
@@ -860,7 +875,7 @@
     "score": {
       "hdu": [
         {
-          "score": 238, 
+          "score": 236, 
           "name": "545042185"
         }
       ], 
@@ -900,11 +915,16 @@
     "score": {
       "hdu": [
         {
-          "score": 23, 
+          "score": 14, 
           "name": "hnust_liuguicen"
         }
       ], 
-      "bestcoder": [], 
+      "bestcoder": [
+        {
+          "score": 1438, 
+          "name": "hnust_liuguicen"
+        }
+      ], 
       "cf": [
         {
           "score": 1318, 
@@ -950,11 +970,16 @@
     "score": {
       "hdu": [
         {
-          "score": 35, 
+          "score": 32, 
           "name": "A1399368351"
         }
       ], 
-      "bestcoder": [], 
+      "bestcoder": [
+        {
+          "score": 1377, 
+          "name": "hnust_chenqingsheng"
+        }
+      ], 
       "cf": [
         {
           "score": 1177, 
@@ -1050,13 +1075,13 @@
     "score": {
       "hdu": [
         {
-          "score": 67, 
+          "score": 65, 
           "name": "643872807"
         }
       ], 
       "bestcoder": [
         {
-          "score": 1345, 
+          "score": 1272, 
           "name": "643872807"
         }
       ], 
@@ -1075,7 +1100,7 @@
       "poj": [], 
       "hn": [
         {
-          "score": 181, 
+          "score": 184, 
           "name": "1305030212"
         }
       ], 
@@ -1098,7 +1123,7 @@
     "score": {
       "hdu": [
         {
-          "score": 31, 
+          "score": 25, 
           "name": "hnust_caohuilin"
         }
       ], 
@@ -1128,7 +1153,12 @@
           "name": "hnustcaohuilin"
         }
       ], 
-      "codechef": []
+      "codechef": [
+        {
+          "score": 22617, 
+          "name": "hnustcaohuilin"
+        }
+      ]
     }, 
     "id": "1305040226", 
     "acdream": "hnustcaohuilin", 
@@ -1138,11 +1168,16 @@
     "score": {
       "hdu": [
         {
-          "score": 2, 
+          "score": 1, 
           "name": "hnust_liuyi"
         }
       ], 
-      "bestcoder": [], 
+      "bestcoder": [
+        {
+          "score": 1377, 
+          "name": "hnust_liuyi"
+        }
+      ], 
       "cf": [], 
       "bnu": [
         {
@@ -1178,7 +1213,12 @@
           "name": "c519696033"
         }
       ], 
-      "bestcoder": [], 
+      "bestcoder": [
+        {
+          "score": 1544, 
+          "name": "hnust_chenkang"
+        }
+      ], 
       "cf": [
         {
           "score": 1367, 
@@ -1219,7 +1259,12 @@
           "name": "hnust_1305040207"
         }
       ], 
-      "bestcoder": [], 
+      "bestcoder": [
+        {
+          "score": 1625, 
+          "name": "hnust_huaxiang"
+        }
+      ], 
       "cf": [], 
       "bnu": [
         {
@@ -1248,7 +1293,7 @@
     "score": {
       "hdu": [
         {
-          "score": 447, 
+          "score": 440, 
           "name": "zhoukaifeng"
         }
       ], 
@@ -1294,7 +1339,7 @@
     "score": {
       "hdu": [
         {
-          "score": 59, 
+          "score": 42, 
           "name": "yejianfei"
         }
       ], 
@@ -1307,7 +1352,7 @@
       "cf": [], 
       "bnu": [
         {
-          "score": 5, 
+          "score": 7, 
           "name": "yejianfei"
         }
       ], 
@@ -1339,7 +1384,7 @@
     "score": {
       "hdu": [
         {
-          "score": 662, 
+          "score": 659, 
           "name": "ruan123"
         }
       ], 
@@ -1369,7 +1414,7 @@
     "score": {
       "hdu": [
         {
-          "score": 438, 
+          "score": 413, 
           "name": "hnust_xiehonghao"
         }
       ], 
@@ -1409,7 +1454,7 @@
     "score": {
       "hdu": [
         {
-          "score": 225, 
+          "score": 223, 
           "name": "hnust_madingwei"
         }
       ], 
@@ -1444,7 +1489,7 @@
     "score": {
       "hdu": [
         {
-          "score": 113, 
+          "score": 109, 
           "name": "hnust_chenyehai"
         }
       ], 
@@ -1479,7 +1524,7 @@
     "score": {
       "hdu": [
         {
-          "score": 11, 
+          "score": 7, 
           "name": "hnust_chenjiabei"
         }
       ], 
