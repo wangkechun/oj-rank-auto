@@ -30,11 +30,11 @@ def getuser(user):
             print key
             try:
                 r = int(float(func(name)))
-                rds.set(key,r)
+                rds.set(key,r,60*30)
                 return r
             except Exception as e:
                 if isinstance(e,IndexError):
-                    rds.set(key,r)
+                    rds.set(key,r,60*30)
                 print(key,e)
                 return -1
         s = [clu(oj,name) for name in v['name'] ]
