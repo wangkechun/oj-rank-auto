@@ -6,5 +6,5 @@ RUN pip install redis
 RUN apt-get install nginx -y
 ADD ./ /src
 ADD nginx-conf /etc/nginx/sites-enabled/default
-CMD /bin/bash
+CMD sh -c 'cd /src && sh run.sh'
 EXPOSE 80
