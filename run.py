@@ -1,6 +1,7 @@
 import json
 import oj
 import types
+import time
 
 acmer = json.load(open('acm.json'))
 
@@ -47,7 +48,7 @@ if __name__ == '__main__':
     from multiprocessing.dummy import Pool
     pool = Pool(5)
     result = pool.map(getuser,acmer)
-
+    result = {"data":result,"time":time.strftime('%b-%d-%y %H:%M:%S')}
     import codecs
     json.dump(result,codecs.open('out.json','w','utf8'),ensure_ascii=False,encoding='utf8',indent=2)
 

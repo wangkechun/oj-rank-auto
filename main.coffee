@@ -1,6 +1,8 @@
 bodyCtrl = ($scope,$http,$filter)->
 	scoreFilter = $filter('score')
 	$http.get('out.json').success (data)->
+		$scope.time = data.time
+		data = data.data
 		console.log data
 		$scope.data = data
 		$scope.clickuser(0)

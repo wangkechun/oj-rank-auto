@@ -16,6 +16,7 @@ html(lang='zh-cn',ng-app="myapp")
   body.container(ng-controller='bodyCtrl')
     .row
       h1 湖南科技大学ACM集训队队员刷题榜
+        small {{time}}
     .row(ng-init="yearnow='all';predicate='id'")
       .col-md-12.col-sm-12
         .btn-group(role="group")
