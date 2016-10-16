@@ -15,60 +15,50 @@
       "score": {
         "hdu": [
           {
-            "score": "6", 
+            "score": 6, 
             "name": "hnust_Sybil"
           }, 
           {
-            "score": "144", 
+            "score": 160, 
             "name": "Sybil"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1493", 
+            "score": 1493, 
             "name": "hnust_Sybil"
           }, 
           {
-            "score": "0", 
+            "score": 1454, 
             "name": "Sybil"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1707, 
             "name": "hnust_sunxiaoyun"
           }
         ], 
         "bnu": [
           {
-            "score": "27", 
+            "score": 35, 
             "name": "hnust_sunxiaoyun"
           }
         ], 
-        "poj": [
-          {
-            "score": "None", 
-            "name": "hnust_sunxiaoyun"
-          }
-        ], 
+        "poj": [], 
         "hn": [
           {
-            "score": "235", 
+            "score": 287, 
             "name": "1205020128"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 16, 
             "name": "Cloudy"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_sunxiaoyun"
-          }
-        ]
+        "codechef": []
       }, 
       "id": "1205020128", 
       "acdream": "Cloudy"
@@ -86,53 +76,53 @@
       "score": {
         "hdu": [
           {
-            "score": "200", 
+            "score": 218, 
             "name": "hnust_wzh"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1597", 
+            "score": 1597, 
             "name": "feng2013"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1668, 
             "name": "fswuweis"
           }, 
           {
-            "score": "None", 
+            "score": 1745, 
             "name": "hnust_wuzhanhui1"
           }
         ], 
         "bnu": [
           {
-            "score": "70", 
+            "score": 71, 
             "name": "hnust_wuzhanhui"
           }
         ], 
         "poj": [
           {
-            "score": "25", 
+            "score": 33, 
             "name": "hnust_wuzhanhui"
           }
         ], 
         "hn": [
           {
-            "score": "350", 
+            "score": 398, 
             "name": "1205020201"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 146, 
             "name": "fswuwei"
           }
         ], 
         "codechef": [
           {
-            "score": "88", 
+            "score": 219, 
             "name": "hnustwzh"
           }
         ]
@@ -155,29 +145,29 @@
       "score": {
         "hdu": [
           {
-            "score": "9", 
+            "score": 9, 
             "name": "hnust_wangkechun"
           }, 
           {
-            "score": "616", 
+            "score": 616, 
             "name": "wangkechun"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1484", 
+            "score": 1484, 
             "name": "hnust_wangkechun"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1403, 
             "name": "hnust_wangkechun"
           }
         ], 
         "bnu": [
           {
-            "score": "35", 
+            "score": 35, 
             "name": "hnust_wangkechun"
           }
         ], 
@@ -189,26 +179,21 @@
         ], 
         "hn": [
           {
-            "score": "98", 
+            "score": 98, 
             "name": "hnust_wangkechun"
           }, 
           {
-            "score": "105", 
+            "score": 105, 
             "name": "wks6125980"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 17, 
             "name": "hnust_wangkechu"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_wangkechun"
-          }
-        ]
+        "codechef": []
       }, 
       "id": "1205020105", 
       "acdream": "hnust_wangkechu"
@@ -217,49 +202,49 @@
       "score": {
         "hdu": [
           {
-            "score": "402", 
+            "score": 445, 
             "name": "hnust_fengyu"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1519", 
+            "score": 1519, 
             "name": "hnust_fengyu"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1597, 
             "name": "hnust_fengyu"
           }
         ], 
         "bnu": [
           {
-            "score": "25", 
+            "score": 28, 
             "name": "hnust_fengyu"
           }
         ], 
         "poj": [
           {
-            "score": "118", 
+            "score": 128, 
             "name": "hnust_fengyu"
           }
         ], 
         "hn": [
           {
-            "score": "208", 
+            "score": 208, 
             "name": "1205020105"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 35, 
             "name": "hnust_fengyu"
           }
         ], 
         "codechef": [
           {
-            "score": "9026", 
+            "score": 14798, 
             "name": "hnust_fengyu"
           }
         ]
@@ -287,53 +272,53 @@
       "score": {
         "hdu": [
           {
-            "score": "244", 
+            "score": 256, 
             "name": "hunst_fjy"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1864", 
+            "score": 1763, 
             "name": "hunst_fjy"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1487, 
             "name": "hnust_fanjinyu"
           }, 
           {
-            "score": "None", 
+            "score": 1828, 
             "name": "Sunshine117"
           }
         ], 
         "bnu": [
           {
-            "score": "30", 
+            "score": 30, 
             "name": "hnustfanjinyu"
           }
         ], 
         "poj": [
           {
-            "score": "94", 
+            "score": 103, 
             "name": "hnust_fjy"
           }
         ], 
         "hn": [
           {
-            "score": "211", 
+            "score": 210, 
             "name": "1205020210"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 46, 
             "name": "hnust_fanjinyu"
           }
         ], 
         "codechef": [
           {
-            "score": "5394", 
+            "score": 8018, 
             "name": "hnust_fanjinyu"
           }
         ]
@@ -364,69 +349,69 @@
       "score": {
         "hdu": [
           {
-            "score": "140", 
+            "score": 157, 
             "name": "hnust_zhouchaoyuan"
           }, 
           {
-            "score": "8", 
+            "score": 8, 
             "name": "1207020203"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1631", 
+            "score": 1773, 
             "name": "hnust_zhouchaoyuan"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1726, 
             "name": "hnust_zhouchaoyuan"
           }, 
           {
-            "score": "None", 
+            "score": 1719, 
             "name": "acjiji"
           }
         ], 
         "bnu": [
           {
-            "score": "19", 
+            "score": 29, 
             "name": "hnustzhouchaoyuan"
           }, 
           {
-            "score": "224", 
+            "score": 232, 
             "name": "acjiji"
           }, 
           {
-            "score": "101", 
+            "score": 101, 
             "name": "1207020203"
           }
         ], 
         "poj": [
           {
-            "score": "78", 
+            "score": 81, 
             "name": "1207020203"
           }
         ], 
         "hn": [
           {
-            "score": "126", 
+            "score": 148, 
             "name": "1207020203"
           }, 
           {
-            "score": "43", 
+            "score": 45, 
             "name": "acjiji"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 162, 
             "name": "hnust_zcy"
           }
         ], 
         "codechef": [
           {
-            "score": "117", 
+            "score": 289, 
             "name": "zcy1zhy3"
           }
         ]
@@ -443,19 +428,19 @@
       "score": {
         "hdu": [
           {
-            "score": "37", 
+            "score": 90, 
             "name": "hnust_tanghanying"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1381", 
+            "score": 1381, 
             "name": "hnust_tanghanying"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1635, 
             "name": "hnust_tanghanying"
           }
         ], 
@@ -467,28 +452,23 @@
         ], 
         "poj": [
           {
-            "score": "16", 
+            "score": 21, 
             "name": "hnust_tanghanying"
           }
         ], 
         "hn": [
           {
-            "score": "112", 
+            "score": 117, 
             "name": "w461481838"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 117, 
             "name": "hnusttanghanyin"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_tanghanying"
-          }
-        ]
+        "codechef": []
       }, 
       "id": "1305040201", 
       "acdream": "hnusttanghanyin"
@@ -502,52 +482,37 @@
       "score": {
         "hdu": [
           {
-            "score": "22", 
+            "score": 37, 
             "name": "hnust_wujunqi"
           }
         ], 
-        "bestcoder": [
-          {
-            "score": "0", 
-            "name": "nowangry"
-          }
-        ], 
+        "bestcoder": [], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1468, 
             "name": "hnust_wujunqi"
           }
         ], 
         "bnu": [
           {
-            "score": "20", 
+            "score": 25, 
             "name": "hnust_wujunqi"
           }
         ], 
-        "poj": [
-          {
-            "score": "None", 
-            "name": "1305030101"
-          }
-        ], 
+        "poj": [], 
         "hn": [
           {
-            "score": "100", 
+            "score": 103, 
             "name": "1305030101"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 28, 
             "name": "hnust_wujunqi"
           }
         ], 
-        "codechef": [
-          {
-            "score": "-1", 
-            "name": "hnust_wujunqi"
-          }
-        ]
+        "codechef": []
       }, 
       "id": "1305030101"
     }, 
@@ -561,49 +526,49 @@
       "score": {
         "hdu": [
           {
-            "score": "71", 
+            "score": 151, 
             "name": "a524912269"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1759", 
+            "score": 1612, 
             "name": "S_Injuly"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1589, 
             "name": "hnust_chendiqi"
           }
         ], 
         "bnu": [
           {
-            "score": "20", 
+            "score": 27, 
             "name": "hnust_chendiqi"
           }
         ], 
         "poj": [
           {
-            "score": "42", 
+            "score": 77, 
             "name": "DKDChan"
           }
         ], 
         "hn": [
           {
-            "score": "198", 
+            "score": 200, 
             "name": "DKDChan"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 10, 
             "name": "hnust_chendiqi"
           }
         ], 
         "codechef": [
           {
-            "score": "396", 
+            "score": 868, 
             "name": "dkdchan"
           }
         ]
@@ -617,52 +582,47 @@
       "score": {
         "hdu": [
           {
-            "score": "25", 
+            "score": 63, 
             "name": "hnust_taoshiqian"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1699", 
+            "score": 1574, 
             "name": "hnust_taoshiqian"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1578, 
             "name": "hnust_taoshiqian"
           }
         ], 
         "bnu": [
           {
-            "score": "28", 
+            "score": 66, 
             "name": "hnust_taoshiqian"
           }
         ], 
         "poj": [
           {
-            "score": "13", 
+            "score": 37, 
             "name": "hnust_taoshiqian"
           }
         ], 
         "hn": [
           {
-            "score": "206", 
+            "score": 221, 
             "name": "1305010210"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 41, 
             "name": "hnusttaoshiqian"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_taoshiqian"
-          }
-        ]
+        "codechef": []
       }, 
       "hn": "1305010210", 
       "other": "hnust_taoshiqian", 
@@ -676,52 +636,42 @@
       "score": {
         "hdu": [
           {
-            "score": "20", 
+            "score": 23, 
             "name": "hnust_LiuXingXong"
           }
         ], 
-        "bestcoder": [
-          {
-            "score": "0", 
-            "name": "hnust_LiuXingLong"
-          }
-        ], 
+        "bestcoder": [], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1246, 
             "name": "hnust_LiuXingLong"
           }
         ], 
         "bnu": [
           {
-            "score": "20", 
+            "score": 20, 
             "name": "hnust_LiuXingLong"
           }
         ], 
         "poj": [
           {
-            "score": "1", 
+            "score": 1, 
             "name": "hnust_LiuXingLong"
           }
         ], 
         "hn": [
           {
-            "score": "105", 
+            "score": 105, 
             "name": "1355010127"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 60, 
             "name": "hnust_LiuXinLon"
           }
         ], 
-        "codechef": [
-          {
-            "score": "-1", 
-            "name": "hnustliuxinlon"
-          }
-        ]
+        "codechef": []
       }, 
       "id": "1355010127", 
       "acdream": "hnust_LiuXinLon", 
@@ -739,56 +689,46 @@
       "score": {
         "hdu": [
           {
-            "score": "27", 
+            "score": 27, 
             "name": "sunzongzhenghd"
           }, 
           {
-            "score": "13", 
+            "score": 13, 
             "name": "hnust_sunzongzheng"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1407", 
+            "score": 1407, 
             "name": "hnust_sunzongzheng"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1220, 
             "name": "hnust_sunzongzheng"
           }
         ], 
         "bnu": [
           {
-            "score": "3", 
+            "score": 3, 
             "name": "hnust_sunzongzheng"
           }
         ], 
-        "poj": [
-          {
-            "score": "0", 
-            "name": "hnust_sunzongzheng"
-          }
-        ], 
+        "poj": [], 
         "hn": [
           {
-            "score": "193", 
+            "score": 193, 
             "name": "sunzongzhenghkd"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 21, 
             "name": "hnust_sunzz"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_sunzongzheng"
-          }
-        ]
+        "codechef": []
       }, 
       "id": "1305030210", 
       "acdream": "hnust_sunzz"
@@ -800,52 +740,42 @@
       "score": {
         "hdu": [
           {
-            "score": "8", 
+            "score": 8, 
             "name": "hnust_wangziyi"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1292", 
+            "score": 1292, 
             "name": "hnust_wangziyi"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1340, 
             "name": "hnust_wangziyi"
           }
         ], 
         "bnu": [
           {
-            "score": "8", 
+            "score": 8, 
             "name": "wangziyi"
           }
         ], 
-        "poj": [
-          {
-            "score": "None", 
-            "name": "hnust_wangziyi"
-          }
-        ], 
+        "poj": [], 
         "hn": [
           {
-            "score": "146", 
+            "score": 147, 
             "name": "1305030208"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 15, 
             "name": "hnust_wangziyi"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_wangziyi"
-          }
-        ]
+        "codechef": []
       }, 
       "hn": "1305030208", 
       "other": "hnust_wangziyi"
@@ -857,52 +787,42 @@
       "score": {
         "hdu": [
           {
-            "score": "32", 
+            "score": 72, 
             "name": "mo1302267724"
           }
         ], 
-        "bestcoder": [
-          {
-            "score": "0", 
-            "name": "hnust_shule"
-          }
-        ], 
+        "bestcoder": [], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1610, 
             "name": "hnust_shule"
           }
         ], 
         "bnu": [
           {
-            "score": "16", 
+            "score": 26, 
             "name": "hnust_shule"
           }
         ], 
         "poj": [
           {
-            "score": "2", 
+            "score": 3, 
             "name": "hnust_shule"
           }
         ], 
         "hn": [
           {
-            "score": "114", 
+            "score": 116, 
             "name": "1305030106"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 31, 
             "name": "hnust_shule"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_shule"
-          }
-        ]
+        "codechef": []
       }, 
       "hn": "1305030106", 
       "other": "hnust_shule"
@@ -916,52 +836,47 @@
       "score": {
         "hdu": [
           {
-            "score": "11", 
+            "score": 11, 
             "name": "hnust_huangmengjie"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1321", 
+            "score": 1321, 
             "name": "hnust_huangmengjie"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1238, 
             "name": "hnust_huangmengjie"
           }
         ], 
         "bnu": [
           {
-            "score": "2", 
+            "score": 3, 
             "name": "huangmengjie"
           }
         ], 
         "poj": [
           {
-            "score": "1", 
+            "score": 1, 
             "name": "hnust_huangmengjie"
           }
         ], 
         "hn": [
           {
-            "score": "72", 
+            "score": 72, 
             "name": "1305020226"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 31, 
             "name": "huangmengjie"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_huangmengjie"
-          }
-        ]
+        "codechef": []
       }, 
       "id": "1305020226", 
       "acdream": "huangmengjie"
@@ -970,52 +885,37 @@
       "score": {
         "hdu": [
           {
-            "score": "237", 
+            "score": 237, 
             "name": "545042185"
           }
         ], 
-        "bestcoder": [
-          {
-            "score": "0", 
-            "name": "545042185"
-          }
-        ], 
-        "cf": [
-          {
-            "score": "None", 
-            "name": "545042185"
-          }
-        ], 
+        "bestcoder": [], 
+        "cf": [], 
         "bnu": [
           {
-            "score": "11", 
+            "score": 15, 
             "name": "545042185"
           }
         ], 
         "poj": [
           {
-            "score": "7", 
+            "score": 7, 
             "name": "545042185"
           }
         ], 
         "hn": [
           {
-            "score": "218", 
+            "score": 218, 
             "name": "545042185"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 19, 
             "name": "545042185"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "545042185"
-          }
-        ]
+        "codechef": []
       }, 
       "other": "545042185", 
       "name": "王嘉康", 
@@ -1025,52 +925,47 @@
       "score": {
         "hdu": [
           {
-            "score": "14", 
+            "score": 32, 
             "name": "hnust_liuguicen"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1438", 
+            "score": 1587, 
             "name": "hnust_liuguicen"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1515, 
             "name": "hnust_liuguicen"
           }
         ], 
         "bnu": [
           {
-            "score": "18", 
+            "score": 24, 
             "name": "hnust_liuguicen"
           }
         ], 
         "poj": [
           {
-            "score": "6", 
+            "score": 11, 
             "name": "hnust_liuguicen"
           }
         ], 
         "hn": [
           {
-            "score": "105", 
+            "score": 106, 
             "name": "1305020304"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 28, 
             "name": "hnust_liuguicen"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_liuguicen"
-          }
-        ]
+        "codechef": []
       }, 
       "other": "hnust_liuguicen", 
       "hn": "1305020304", 
@@ -1085,52 +980,42 @@
       "score": {
         "hdu": [
           {
-            "score": "32", 
+            "score": 32, 
             "name": "A1399368351"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1377", 
+            "score": 1377, 
             "name": "hnust_chenqingsheng"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1177, 
             "name": "hnust_chenqingsheng"
           }
         ], 
         "bnu": [
           {
-            "score": "8", 
+            "score": 8, 
             "name": "hnust_chenqingsheng"
           }
         ], 
-        "poj": [
-          {
-            "score": "0", 
-            "name": "hnust_chenqingsheng"
-          }
-        ], 
+        "poj": [], 
         "hn": [
           {
-            "score": "115", 
+            "score": 115, 
             "name": "A1399368351"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 4, 
             "name": "hnust_chqish"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_chenqingsheng"
-          }
-        ]
+        "codechef": []
       }, 
       "id": "1305040217", 
       "acdream": "hnust_chqish"
@@ -1144,31 +1029,31 @@
       "score": {
         "hdu": [
           {
-            "score": "31", 
+            "score": 73, 
             "name": "hnust_xudaoli"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1289", 
+            "score": 1500, 
             "name": "hnust_xudaoli"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1675, 
             "name": "hnust_xudaoli"
           }
         ], 
         "bnu": [
           {
-            "score": "67", 
+            "score": 75, 
             "name": "hnust_xudaoli"
           }
         ], 
         "poj": [
           {
-            "score": "38", 
+            "score": 46, 
             "name": "hnustxudaoli"
           }
         ], 
@@ -1180,16 +1065,11 @@
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 78, 
             "name": "hnustxudaoli"
           }
         ], 
-        "codechef": [
-          {
-            "score": "-1", 
-            "name": "hnust_xudaoli"
-          }
-        ]
+        "codechef": []
       }, 
       "id": "1305020122", 
       "acdream": "hnustxudaoli"
@@ -1205,52 +1085,42 @@
       "score": {
         "hdu": [
           {
-            "score": "67", 
+            "score": 67, 
             "name": "643872807"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1230", 
+            "score": 1419, 
             "name": "643872807"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1249, 
             "name": "hnust_caiyonglong"
           }
         ], 
         "bnu": [
           {
-            "score": "30", 
+            "score": 30, 
             "name": "643872807"
           }
         ], 
-        "poj": [
-          {
-            "score": "0", 
-            "name": "hnust_caiyonglong"
-          }
-        ], 
+        "poj": [], 
         "hn": [
           {
-            "score": "190", 
+            "score": 194, 
             "name": "1305030212"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 31, 
             "name": "643872807"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_caiyonglong"
-          }
-        ]
+        "codechef": []
       }, 
       "id": "1305030212", 
       "acdream": "643872807"
@@ -1263,49 +1133,39 @@
       "score": {
         "hdu": [
           {
-            "score": "25", 
+            "score": 25, 
             "name": "hnust_caohuilin"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1413", 
+            "score": 1413, 
             "name": "hnust_caohuilin"
           }
         ], 
-        "cf": [
-          {
-            "score": "None", 
-            "name": "hnust_caohuilin"
-          }
-        ], 
+        "cf": [], 
         "bnu": [
           {
-            "score": "26", 
+            "score": 26, 
             "name": "hnust_caohuilin"
           }
         ], 
-        "poj": [
-          {
-            "score": "None", 
-            "name": "hnust_caohuilin"
-          }
-        ], 
+        "poj": [], 
         "hn": [
           {
-            "score": "82", 
+            "score": 87, 
             "name": "caohuilin"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 46, 
             "name": "hnustcaohuilin"
           }
         ], 
         "codechef": [
           {
-            "score": "35930", 
+            "score": 48782, 
             "name": "hnustcaohuilin"
           }
         ]
@@ -1318,52 +1178,37 @@
       "score": {
         "hdu": [
           {
-            "score": "1", 
+            "score": 1, 
             "name": "hnust_liuyi"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1377", 
+            "score": 1377, 
             "name": "hnust_liuyi"
           }
         ], 
-        "cf": [
-          {
-            "score": "None", 
-            "name": "hnust_liuyi"
-          }
-        ], 
+        "cf": [], 
         "bnu": [
           {
-            "score": "8", 
+            "score": 8, 
             "name": "hnust_liuyi"
           }
         ], 
-        "poj": [
-          {
-            "score": "None", 
-            "name": "hnust_liuyi"
-          }
-        ], 
+        "poj": [], 
         "hn": [
           {
-            "score": "60", 
+            "score": 60, 
             "name": "lueyi"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 18, 
             "name": "hnust_liuyi"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_liuyi"
-          }
-        ]
+        "codechef": []
       }, 
       "other": "hnust_liuyi", 
       "hn": "lueyi", 
@@ -1374,52 +1219,37 @@
       "score": {
         "hdu": [
           {
-            "score": "20", 
+            "score": 20, 
             "name": "c519696033"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1544", 
+            "score": 1544, 
             "name": "hnust_chenkang"
           }
         ], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1365, 
             "name": "hnust_chenkang"
           }
         ], 
         "bnu": [
           {
-            "score": "18", 
+            "score": 18, 
             "name": "hnust_chenkang"
           }
         ], 
-        "poj": [
-          {
-            "score": "None", 
-            "name": "hnust_chenkang"
-          }
-        ], 
-        "hn": [
-          {
-            "score": "None", 
-            "name": "hnust_chenkang"
-          }
-        ], 
+        "poj": [], 
+        "hn": [], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 18, 
             "name": "hnust_chenkang"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_chenkang"
-          }
-        ]
+        "codechef": []
       }, 
       "hdu": "c519696033", 
       "other": "hnust_chenkang", 
@@ -1435,52 +1265,37 @@
       "score": {
         "hdu": [
           {
-            "score": "2", 
+            "score": 2, 
             "name": "hnust_1305040207"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1625", 
+            "score": 1625, 
             "name": "hnust_huaxiang"
           }
         ], 
-        "cf": [
-          {
-            "score": "None", 
-            "name": "hnust_huaxiang"
-          }
-        ], 
+        "cf": [], 
         "bnu": [
           {
-            "score": "1", 
+            "score": 1, 
             "name": "hnusthuaxiang"
           }
         ], 
-        "poj": [
-          {
-            "score": "None", 
-            "name": "hnust_huaxiang"
-          }
-        ], 
+        "poj": [], 
         "hn": [
           {
-            "score": "4", 
+            "score": 4, 
             "name": "1305040207"
           }
         ], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 41, 
             "name": "hnust_huaxiang"
           }
         ], 
-        "codechef": [
-          {
-            "score": "-1", 
-            "name": "hnust_huaxiang"
-          }
-        ]
+        "codechef": []
       }, 
       "id": "1305040207"
     }, 
@@ -1488,49 +1303,39 @@
       "score": {
         "hdu": [
           {
-            "score": "441", 
+            "score": 441, 
             "name": "zhoukaifeng"
           }
         ], 
-        "bestcoder": [
-          {
-            "score": "None", 
-            "name": "lazier"
-          }
-        ], 
+        "bestcoder": [], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1766, 
             "name": "lazier"
           }
         ], 
         "bnu": [
           {
-            "score": "24", 
+            "score": 24, 
             "name": "lazier"
           }
         ], 
         "poj": [
           {
-            "score": "39", 
+            "score": 39, 
             "name": "lazier"
           }
         ], 
         "hn": [
           {
-            "score": "73", 
+            "score": 72, 
             "name": "lazier"
           }
         ], 
-        "acdream": [
-          {
-            "score": "None", 
-            "name": "lazier"
-          }
-        ], 
+        "acdream": [], 
         "codechef": [
           {
-            "score": "3074", 
+            "score": 5425, 
             "name": "lazier"
           }
         ]
@@ -1544,49 +1349,39 @@
       "score": {
         "hdu": [
           {
-            "score": "42", 
+            "score": 42, 
             "name": "yejianfei"
           }
         ], 
         "bestcoder": [
           {
-            "score": "1401", 
+            "score": 1401, 
             "name": "yejianfei"
           }
         ], 
-        "cf": [
-          {
-            "score": "None", 
-            "name": "yejianfei"
-          }
-        ], 
+        "cf": [], 
         "bnu": [
           {
-            "score": "7", 
+            "score": 7, 
             "name": "yejianfei"
           }
         ], 
         "poj": [
           {
-            "score": "3", 
+            "score": 3, 
             "name": "yejianfei"
           }
         ], 
         "hn": [
           {
-            "score": "274", 
+            "score": 275, 
             "name": "yejianfei"
           }
         ], 
-        "acdream": [
-          {
-            "score": "None", 
-            "name": "yejianfei"
-          }
-        ], 
+        "acdream": [], 
         "codechef": [
           {
-            "score": "22095", 
+            "score": 33006, 
             "name": "yejianfei"
           }
         ]
@@ -1599,52 +1394,27 @@
       "score": {
         "hdu": [
           {
-            "score": "659", 
+            "score": 659, 
             "name": "ruan123"
           }
         ], 
-        "bestcoder": [
-          {
-            "score": "0", 
-            "name": "ruan123"
-          }
-        ], 
-        "cf": [
-          {
-            "score": "None", 
-            "name": "ruan123"
-          }
-        ], 
+        "bestcoder": [], 
+        "cf": [], 
         "bnu": [
           {
-            "score": "1", 
+            "score": 1, 
             "name": "ruan123"
           }
         ], 
         "poj": [
           {
-            "score": "68", 
+            "score": 68, 
             "name": "ruan123"
           }
         ], 
-        "hn": [
-          {
-            "score": "None", 
-            "name": "ruan123"
-          }
-        ], 
-        "acdream": [
-          {
-            "score": "None", 
-            "name": "ruan123"
-          }
-        ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "ruan123"
-          }
-        ]
+        "hn": [], 
+        "acdream": [], 
+        "codechef": []
       }, 
       "other": "ruan123", 
       "name": "阮柳春", 
@@ -1654,52 +1424,37 @@
       "score": {
         "hdu": [
           {
-            "score": "413", 
+            "score": 413, 
             "name": "hnust_xiehonghao"
           }
         ], 
-        "bestcoder": [
-          {
-            "score": "0", 
-            "name": "hnust_xiehonghao"
-          }
-        ], 
+        "bestcoder": [], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1396, 
             "name": "hnust_xiehonghao"
           }
         ], 
         "bnu": [
           {
-            "score": "10", 
+            "score": 10, 
             "name": "hnust_xiehonghao"
           }
         ], 
         "poj": [
           {
-            "score": "62", 
+            "score": 62, 
             "name": "hnust_xiehonghao"
           }
         ], 
         "hn": [
           {
-            "score": "9", 
+            "score": 9, 
             "name": "hnust_xiehonghao"
           }
         ], 
-        "acdream": [
-          {
-            "score": "None", 
-            "name": "hnust_xiehonghao"
-          }
-        ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_xiehonghao"
-          }
-        ]
+        "acdream": [], 
+        "codechef": []
       }, 
       "other": "hnust_xiehonghao", 
       "name": "谢宏浩", 
@@ -1709,52 +1464,32 @@
       "score": {
         "hdu": [
           {
-            "score": "223", 
+            "score": 227, 
             "name": "hnust_madingwei"
           }
         ], 
-        "bestcoder": [
-          {
-            "score": "0", 
-            "name": "hnust_madingwei"
-          }
-        ], 
+        "bestcoder": [], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1576, 
             "name": "hnust_madingwei"
           }
         ], 
         "bnu": [
           {
-            "score": "22", 
+            "score": 22, 
             "name": "hnust_madingwei"
           }
         ], 
         "poj": [
           {
-            "score": "44", 
+            "score": 44, 
             "name": "hnust_madingwei"
           }
         ], 
-        "hn": [
-          {
-            "score": "None", 
-            "name": "hnust_madingwei"
-          }
-        ], 
-        "acdream": [
-          {
-            "score": "None", 
-            "name": "hnust_madingwei"
-          }
-        ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_madingwei"
-          }
-        ]
+        "hn": [], 
+        "acdream": [], 
+        "codechef": []
       }, 
       "other": "hnust_madingwei", 
       "name": "马定威", 
@@ -1764,52 +1499,32 @@
       "score": {
         "hdu": [
           {
-            "score": "109", 
+            "score": 109, 
             "name": "hnust_chenyehai"
           }
         ], 
-        "bestcoder": [
-          {
-            "score": "0", 
-            "name": "hnust_chenyehai"
-          }
-        ], 
+        "bestcoder": [], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1343, 
             "name": "hnust_chenyehai"
           }
         ], 
         "bnu": [
           {
-            "score": "20", 
+            "score": 20, 
             "name": "hnust_chenyehai"
           }
         ], 
-        "poj": [
-          {
-            "score": "None", 
-            "name": "hnust_chenyehai"
-          }
-        ], 
-        "hn": [
-          {
-            "score": "None", 
-            "name": "hnust_chenyehai"
-          }
-        ], 
+        "poj": [], 
+        "hn": [], 
         "acdream": [
           {
-            "score": "None", 
+            "score": 55, 
             "name": "hnust_chenyehai"
           }
         ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_chenyehai"
-          }
-        ]
+        "codechef": []
       }, 
       "other": "hnust_chenyehai", 
       "name": "陈业海", 
@@ -1819,52 +1534,32 @@
       "score": {
         "hdu": [
           {
-            "score": "7", 
+            "score": 7, 
             "name": "hnust_chenjiabei"
           }
         ], 
-        "bestcoder": [
-          {
-            "score": "0", 
-            "name": "hnust_chenjiabei"
-          }
-        ], 
+        "bestcoder": [], 
         "cf": [
           {
-            "score": "None", 
+            "score": 1227, 
             "name": "hnust_chenjiabei"
           }
         ], 
         "bnu": [
           {
-            "score": "10", 
+            "score": 10, 
             "name": "hnust_chenjiabei"
           }
         ], 
-        "poj": [
-          {
-            "score": "None", 
-            "name": "hnust_chenjiabei"
-          }
-        ], 
+        "poj": [], 
         "hn": [
           {
-            "score": "197", 
+            "score": 196, 
             "name": "1205030209"
           }
         ], 
-        "acdream": [
-          {
-            "score": "None", 
-            "name": "hnust_chenjiabei"
-          }
-        ], 
-        "codechef": [
-          {
-            "score": "None", 
-            "name": "hnust_chenjiabei"
-          }
-        ]
+        "acdream": [], 
+        "codechef": []
       }, 
       "other": "hnust_chenjiabei", 
       "hn": "1205030209", 
@@ -1872,5 +1567,5 @@
       "id": "1205030209"
     }
   ], 
-  "time": "May-09-15 15:43:19"
+  "time": "Oct-16-16 21:06:45"
 }

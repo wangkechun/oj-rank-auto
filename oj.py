@@ -27,18 +27,18 @@ def poj(name):
 
 def acdream(name):
     r = Selector(text=requests.get('http://acdream.info/user/'+name,timeout=6).text)
-    ac = r.xpath('//*[@id="xbody"]/fieldset/div[2]/div[2]/ul/li[4]/span/text()').extract()[0]
+    ac = r.xpath('//*[@class="user-info"]/li[4]/a/text()').extract()[0].strip()
     return ac
 
 def cf(name):
     r = Selector(text=requests.get('http://codeforces.com/profile/'+name,timeout=10).text)
-    ac = r.xpath('//*[@id="content"]/div[2]/div[5]/div[2]/ul/li[1]/span[1]/text()').extract()[0]
+    ac = r.xpath('//*[@id="pageContent"]/div[2]/div[5]/div[2]/ul/li[1]/span[1]/text()').extract()[0]
     return ac
 
 
 def bestcoder(name):
     r = Selector(text=requests.get('http://bestcoder.hdu.edu.cn/rating.php?user='+name,timeout=6).text)
-    ac = r.xpath('//*[@id="rating"]/div[1]/div[4]/p[2]/text()').extract()[0]
+    ac = r.xpath('//*[@id="profile-heading"]/div/div[3]/span[2]/text()').extract()[0]
     return re.search('\d+',ac).group()
 
 
